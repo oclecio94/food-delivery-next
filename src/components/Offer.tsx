@@ -10,8 +10,10 @@ const Offer = () => {
           Delicioso Hambúrguer e Batata Frita
         </h1>
         <p className="text-white xl:text-xl">
-          Simplifique progressivamente e-toilers eficazes e métodos centrados no
-          processo de empoderamento. Rapidamente pontifique paralelamente.
+          Apresentamos o irresistível hambúrguer gourmet "King Burguer"
+          disponível em nosso site! Este delicioso hambúrguer é uma verdadeira
+          explosão de sabores que vai levar sua experiência gastronômica a um
+          patamar superior.
         </p>
         <CountDown />
         <button className="bg-red-500 text-white rounded-md py-3 px-6">
